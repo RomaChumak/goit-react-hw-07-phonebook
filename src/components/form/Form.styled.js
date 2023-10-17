@@ -11,6 +11,7 @@ export const StyledForm = styled(Form)`
     align-items: center;
     gap: 10px;
     margin-top: 20px;
+    height: 400px;
 `
 export const ContactLabel = styled.label`
 display: flex;
